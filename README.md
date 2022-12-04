@@ -25,7 +25,7 @@ Operating system :
 
 Language :
 <br>
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)](https://github.com/liburngoding)
 
 ### Demo
 
