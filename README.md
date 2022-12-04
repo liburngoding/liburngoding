@@ -23,22 +23,13 @@ Operating system :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
+![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding)
 
 Language :
 
 
 ### Demo
 
-[![liburngoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liburngoding)](https://github.com/anuraghazra/github-readme-stats)
-
-[![liburngoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liburngoding&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
--   Compact layout
-
-[![liburngoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liburngoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-* * *
 <br>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
