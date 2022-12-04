@@ -11,12 +11,10 @@ Text editor i'm used:
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 Text editor that i'm not use anymore:
 <br>
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 
 Operating system :
 <br>
@@ -25,11 +23,9 @@ Operating system :
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-
 Language :
 <br>
-![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact&)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding">
+![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
 
 ### Demo
 
