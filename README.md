@@ -23,11 +23,9 @@ Operating system :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding)
+![Top LangsXX]([https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact))
 
-<a href="https://github.com/liburngoding/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liburngoding&repo=github-readme-stats" />
-</a>
+
 Language :
 
 
