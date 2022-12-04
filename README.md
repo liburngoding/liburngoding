@@ -26,6 +26,19 @@ Operating system :
 ![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
 
 Language :
+
+
+### Demo
+
+[![liburngoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liburngoding)](https://github.com/anuraghazra/github-readme-stats)
+
+[![liburngoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liburngoding&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+-   Compact layout
+
+[![liburngoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liburngoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+* * *
 <br>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
