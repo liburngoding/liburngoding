@@ -29,7 +29,7 @@ Operating system :
 Language :
 <br>
 ![Top LangsXX](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding">
 
 ### Demo
 
