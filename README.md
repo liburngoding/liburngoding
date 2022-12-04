@@ -25,7 +25,7 @@ Operating system :
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding&langs_count=8)](https://github.com/liburngoding/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding)](https://github.com/liburngoding/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liburngoding)](https://github.com/liburngoding/)
 <!---
 liburngoding/liburngoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
